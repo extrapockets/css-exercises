@@ -1,0 +1,16 @@
+/* stylesheet */
+
+.first {
+    background-color: #000;
+    color: white
+}
+
+.second {
+    background-color: rgb(243, 240, 51);
+}
+
+.first, .second {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    padding-top: 5px;
+}
